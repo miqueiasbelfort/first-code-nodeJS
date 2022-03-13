@@ -3,4 +3,4 @@
 * O código é bem simples
 * Ultilizando um module interno do node ou seja que vem junto com o Node 
 * Para ler um arquivo de texto (.txt)
-* O module ultilizado foi "File Systema"
+* O module ultilizado foi "File System"
